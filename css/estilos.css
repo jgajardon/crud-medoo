@@ -1,0 +1,48 @@
+.contenedor-principal{
+	
+	width:50%;
+	margin: auto;
+	margin-top:5%;
+	
+}
+
+#crearButton{
+	
+	margin-left:80%;
+	
+}
+
+#editButton{
+	
+	margin-left:85%;
+	
+}
+
+#deleteButton{
+	
+	margin-left:45%;
+	
+}
+
+h3{
+	
+	width:50%;
+	margin: auto;
+	margin-top:5%;
+	
+}
+
+#volver1{
+	margin-top:5%;
+	margin-left:45%;
+}
+
+#volver2{
+	margin-top:5%;
+	margin-left:45%;
+}
+
+#volver3{
+	margin-top:5%;
+	margin-left:45%;
+}
